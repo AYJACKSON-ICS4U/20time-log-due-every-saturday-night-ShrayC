@@ -12,3 +12,5 @@ I have tried to get faster at doing a 3x3 cube by flicking instead of manually t
 I have not worked on anything new this week, just practiced 3x3 algorithms and I want to try a 4x4 cube soon or maybe learn other methods such as the X method on the 3x3.
 # Saturday, December 9th
 I  tried to mess around with the 4x4 and got my friend to help me, I can sometimes solve the middle 4x4 and I know how to line up the pairs around it, then afterwards I can solve it like a 3x3.
+# Saturday, December 16th
+I continued to practice with the 4x4 and try to master the parts I already know how to do. I also continued to practice the 3x3 and 2x2 to keep improving.
